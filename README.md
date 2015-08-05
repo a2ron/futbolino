@@ -1,2 +1,2 @@
 # futbolino
-A domotic to futbolin management
+A domotic project to futbolin games management.
